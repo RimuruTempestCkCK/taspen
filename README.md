@@ -52,12 +52,6 @@ http://localhost/nama-folder/
 ### 5. Login
 Gunakan akun admin yang sudah ditambahkan atau bisa register manual melalui database.
 
----
-
-## 📸 Tampilan Aplikasi
-
-> _(Tambahkan screenshot di folder dan tampilkan di sini jika perlu)_  
-> ![screenshot](screenshots/beranda.png)
 
 ---
 
