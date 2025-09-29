@@ -1,4 +1,4 @@
-📂 Sistem Informasi Inventory Dosir - PT TASPEN (Persero) Kantor Cabang Padang
+[[📂 Sistem Informasi Inventory Dosir - PT TASPEN (Persero) Kantor Cabang Padang
 📖 Deskripsi
 
 Proyek ini merupakan hasil penelitian dan perancangan Sistem Informasi Inventory Dosir berbasis web yang dikembangkan untuk PT TASPEN (PERSERO) Kantor Cabang Padang.
@@ -125,4 +125,6 @@ http://localhost/inventory-dosir
 
 Peneliti & Pengembang: [Nama Kamu]
 
-Institusi: Universitas Andalas - Fakultas Teknik - Teknik Industri
+Institusi: Universitas Andalas - Fakultas Teknik - Teknik Industri](http://localhost/inventory-dosir
+)](http://localhost/inventory-dosir
+)
