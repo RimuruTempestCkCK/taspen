@@ -88,8 +88,8 @@ Dengan adanya sistem ini, proses pengelolaan arsip dosir menjadi lebih **efisien
 ## 📌 Cara Menjalankan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/inventory-dosir.git
-2. Import database inventory_dosir.sql ke MySQL.
+   git clone https://github.com/RimuruTempestCkCK/taspen.git
+2. Import database taspen.sql ke MySQL.
 
 3. Konfigurasi koneksi database pada file config.php.
 
@@ -97,7 +97,7 @@ Dengan adanya sistem ini, proses pengelolaan arsip dosir menjadi lebih **efisien
 
 5. Akses aplikasi melalui browser:
 
-http://localhost/inventory-dosir
+http://localhost/taspen
 
 ---
 
